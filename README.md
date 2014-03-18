@@ -1,6 +1,6 @@
 #raspio-breakout
 
-https://github.com/raspitv/raspi-breakout
+https://github.com/raspitv/raspio-breakout
 
 
 RasPiO® Breakout Python scripts
@@ -15,7 +15,7 @@ http://rasp.io/breakout
 
 ##Preparation
 
-Connect a wire from each port to an led (long leg, +ve side).
+Connect a wire from each port to an LED (long leg, +ve side).
 Connect the short leg of the LED to a resistor (~330 Ohms is safe)
 Connect the other end of the resistor to GND.
 
